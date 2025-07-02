@@ -39,7 +39,6 @@ int main() {
     printf("Número de pontos turísticos: %d\n", numero_de_pontos_turisticos1);
     printf("Densidade populacional: %.2f habitantes por km²\n", densidade_populacional1);
     printf("PIB per capita: R$ %.2f\n", pib_per_capita1);
-    printf("Super Poder: %.2f\n", super_poder1);
 
     // Exibir dados da Carta 2
     printf("\n--- Carta 2 ---\n");
@@ -52,7 +51,6 @@ int main() {
     printf("Número de pontos turísticos: %d\n", numero_de_pontos_turisticos2);
     printf("Densidade populacional: %.2f habitantes por km²\n", densidade_populacional2);
     printf("PIB per capita: R$ %.2f\n", pib_per_capita2);
-    printf("Super Poder: %.2f\n", super_poder2);
 
     // Comparações
     printf("\n--- Resultados das Comparações ---\n");
@@ -90,3 +88,4 @@ int main() {
 
     return 0;
 }
+
